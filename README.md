@@ -4,7 +4,7 @@ It's fairly simple, every day, I send the top 3 most upvoted songs from reddit.c
 Now I work for personal users, and feel free to recreate this bot for your personal use!  
 On my side, I deployed it on a raspberry to have it up and running 24/7.  
 
-If you are interested in the process to have it up and running, [here is a quick guide](https://github.com/git1984/some.guides/blob/master/telegram_reddit_pi.md) to combine Telegram, Reddit and a raspberry.  
+If you are interested in the process to have it up and running, [here is a quick guide](https://github.com/git1984/some.guides/blob/master/bots/telegram_reddit_pi.md) to combine Telegram, Reddit and a raspberry.  
 
 # How do I work
 
@@ -12,8 +12,8 @@ Once you have recreated your own bot and replaced the required variables, get yo
 
 Technologies used:
 
-- Python3
-- RaspberryPi 0, to deploy the service and get the bot up and running 24/7
+- **Python3**
+- **RaspberryPi 0**, to deploy the service and get the bot up and running 24/7
 
 # Repository structure
 
